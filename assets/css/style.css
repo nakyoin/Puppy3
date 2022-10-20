@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+body{
+    background: #F5F5F5;
+}
+
+.a{
+    text-decoration: none;
+}
+.sect1{
+    height: 1049px;
+    font-family: 'Roboto' sans-serif;
+    font-style: normal;
+    border-radius: 0px;
+    background: url(/assets/img/duotone.png) no-repeat center center / cover;
+}
+
+.sect1_logo{
+    padding-left: 10px;
+    padding-top:40px;
+}
+.sect1_logoimg{
+    padding-left: 210px;
+    padding-top: 0px;
+}
+.sect1_menu{
+    height: 60px;
+width: 1020px;
+border-radius: 10px;
+background: #FFFFFF;
+border-radius: 10px;
+margin-left: 210px;
+margin-top: 50px;
+display: flex;
+
+}
+.inner_menu_text{
+    font-family: 'Roboto';
+font-style: normal;
+margin-right: 24px;
+margin-left: 40px;
+margin-top: 20px;
+}
+.sect1_headtext{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 56px;
+line-height: 56px;
+color: white;
+margin-left: 210px;
+margin-top: 124px;
+}
+.sect1_underbutton{
+    height: 48px;
+    width: 210px;
+    background: #F2726F;
+border-radius: 8px;
+margin-left: 210px;
+font-family: 'Roboto';
+font-style: normal;
+}
+.sect1_underbutton_text{
+    font-family: 'Roboto' sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    
+    font-weight: 700;
+font-size: 12px;
+line-height: 24px;
+padding-top: 10px;
+padding-left: 35px;
+}
+.sect2{
+    position: absolute;
+width: 1020px;
+height: 700px;
+left: 210px;
+top: 720px;
+
+ 
+background: #5D62B5 no-repeat center center / cover;
+border-radius: 40px;
+}
+.circles{
+position: absolute;
+width: 201px;
+height: 317px;
+left: 930px;
+top: -100px;
+}
+.sect2_innertext{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 24px;
+color: #FFFFFF;
+letter-spacing: 2.5px;
+text-transform: uppercase;
+margin-left: 120px;
+margin-top: 100px;
+}
+.sect2_maintext{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 42px;
+color: #FFFFFF;
+margin-left: 87px;
+}
+.sect2_desctext{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.15px;
+color: #F5F5F5;
+margin-left: 87px;
+}
+.dog_pic{
+    position: absolute;
+width: 877px;
+height: 384px;
+left: 70px;
+top: 464px;
+
+background: url(pexels-photo-406014.jpg);
+border-radius: 40px;
+}
+.sect3_innertext{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 24px;
+    color: #5D62B5;
+    margin-left: 243px;
+
+}
+.sect2_block{
+    height: 610px;
+width: 1440px;
+border-radius: 0px;
+}
+.sect3_headtext{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 42px;
+color: #000000;
+margin-left: 210px;
+}
+.dog_and_cat{
+    margin-left: 210px;
+}
+.dog_and_girl{
+    margin-left: 55px;
+}
+.dog_and_pc{
+    margin-left: 55px;
+}
+.sect4_bg{
+    margin-top: 70px;
+    height: 550px;
+    background: #29C3BE center center / cover;
+}
+.puppy{
+    position: absolute;
+    left: 3px;
+    top: 2134px;
+    background: url(./assets/img/pup.img);
+}
+
+.sect4_circles{
+    position: absolute;
+left: 10px;
+top: 2224px;
+
+background: url(./assets/img/circles.png);
+}
+.sect4_headtext{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 42px;
+color: #FFFFFF;
+margin-left: 819px;
+padding-top: 112px;
+}
+.sect4_button{
+background: #F2726F;
+border-radius: 8px;
+height: 48px;
+width: 210px;
+margin-left: 819px;
+margin-top: 45px;
+}
+.sect4_innertext{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 24px;
+color: #FFFFFF;
+letter-spacing: 0.15px;
+margin-left: 45px;
+padding-top: 10px;
+}
+.sect5_innertext{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 24px;
+color: #5D62B5;
+margin-top: 100px;
+margin-left: 34px;
+letter-spacing: 2.5px;
+}
+.sect5_maintext{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 42px;
+color: #000000;
+margin-left: px;
+margin-top: 33px;
+}
+.sect5_1block{
+    width: 250px;
+height: 340px;
+background: white;
+border-radius: 20px;
+box-shadow: 10px #000000;
+margin-right: 64px;
+}
+.sect5_upperblocks{
+    display: flex;
+    padding-top: 30px;
+}
+.sect5{
+    padding-left: 210px;
+}
+.sect5_button{
+    background: #F2726F;
+border-radius: 8px;
+height: 48px;
+width: 124px;
+margin-left: 370px;
+margin-top: 66px;
+
+
+}
+.sect5_button_text{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 24px;
+color: #FFFFFF;
+padding-top: 10px;
+margin-left: 25px;
+}
+
+.sect5_chevron{
+    position: absolute;
+left: 220px;
+top: 2685px;
+}
+.sect3_chevron{
+    position: absolute;
+    left: 220px;
+    top: 1675px;
+}
+.sect2_chevron{
+    position: absolute;
+    left: 90px;
+    top: 98px;
+}
